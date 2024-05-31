@@ -1,1 +1,3 @@
 # vizsga
+
+Üzemeltető vizsga szöveggel.
